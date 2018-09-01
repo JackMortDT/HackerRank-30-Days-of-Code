@@ -12,11 +12,11 @@ You've got this!
 
 A single line of text denoting  (the variable whose contents must be printed).
 
-### Output Format
+### Output Format
 
 Print Hello, World. on the first line, and the contents of  on the second line.
 
-### Sample Input
+### Sample Input
 
 ```
 Welcome to 30 Days of Code!
